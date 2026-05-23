@@ -5,3 +5,4 @@ The goal of this project is to practice and reinforce the HTML skills I've recen
 ## Image Credits
 
 - Carbonara image by Javier Somoza via Wikimedia Commons (CC BY-SA 4.0)
+- Chocolate Chip Cookies image by Rdsmith4 via Wikimedia Commons (CC BY-SA 2.5)
